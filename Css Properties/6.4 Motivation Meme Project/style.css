@@ -1,0 +1,34 @@
+
+html{
+    background-color: black;
+}
+
+.img-container{
+    margin-top: 10em;
+    width: 50%;
+    margin-left: 25%;
+}
+
+img{
+    border: 5px white solid;
+    width: 100%;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+p{
+    color: white;
+}
+
+.description{
+    display: flex;
+    justify-content: center;
+}
